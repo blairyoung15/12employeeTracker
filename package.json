@@ -1,0 +1,25 @@
+{
+  "name": "12employeetracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blairyoung15/12employeeTracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blairyoung15/12employeeTracker/issues"
+  },
+  "homepage": "https://github.com/blairyoung15/12employeeTracker#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "jest": "^28.1.2",
+    "mysql2": "^2.3.3"
+  }
+}
